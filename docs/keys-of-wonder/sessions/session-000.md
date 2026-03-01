@@ -10,7 +10,7 @@ tags: [session, keys-of-wonder]
 
 ## TL;DR
 
-Five strangers met at the Catch Your Breath Inn in Slew and accepted a contract from Merchant Prince Jorvan Eltharion to investigate a mysteriously thawed section of the frozen swamp. Inside a dome of unnatural summer, they discovered frogfolk activity, hidden supplies, and a sealed underground entrance that only a bullywug's hand could open. After surviving brutal ambushes -- including a fight that nearly killed Dusk -- the party descended into an underground base and reached Level 2.
+Five strangers met at the [Catch Your Breath Inn](../../world/locations/catch-your-breath-inn.md) in [Slew](../../world/locations/slew.md) and accepted a contract from [Merchant Prince Jorvan Eltharion](../../world/npcs/jorvan-eltharion.md) to investigate a mysteriously thawed section of the frozen swamp. Inside a dome of unnatural summer, they discovered frogfolk activity, hidden supplies, and a sealed underground entrance that only a bullywug's hand could open. After surviving brutal ambushes -- including a fight that nearly killed Dusk -- the party descended into an underground base and reached Level 2.
 
 ---
 
@@ -18,7 +18,7 @@ Five strangers met at the Catch Your Breath Inn in Slew and accepted a contract 
 
 The city of Slew runs on trade, and trade runs on the Merchant Princes. At the Catch Your Breath Inn -- a known gathering place for hired swords, wandering clerics, and the otherwise unemployed -- five strangers found themselves sharing a corner table.
 
-Rivnee, a sea elf fighter, had been waiting there for over a week. Dusk and Thora had arrived a few days prior. Juice Sumgai had come only yesterday. And N'ail, an eladrin warlock freshly arrived from the Feywild, walked in with no clear plan until the barkeep Maria Heathertoes pointed him toward the back corner.
+Rivnee, a sea elf fighter, had been waiting there for over a week. Dusk and Thora had arrived a few days prior. Juice Sumgai had come only yesterday. And N'ail, an eladrin warlock freshly arrived from the Feywild, walked in with no clear plan until the barkeep [Maria Heathertoes](../../world/npcs/maria-heathertoes.md) pointed him toward the back corner.
 
 By the time Merchant Prince Jorvan Eltharion approached the table, they were already a group.
 

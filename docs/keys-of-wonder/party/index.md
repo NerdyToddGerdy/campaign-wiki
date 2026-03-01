@@ -6,7 +6,7 @@ tags: [party, keys-of-wonder]
 
 ## The Keybearers
 
-The party of Keys of Wonder came together somewhat by accident at the Coppergate Market in Verenmoor. They are now in possession of something unusual and, it seems, sought after.
+The party of Keys of Wonder came together at the [Catch Your Breath Inn](../../world/locations/catch-your-breath-inn.md) in [Slew](../../world/locations/slew.md), drawn together by circumstance and a contract offered by [Merchant Prince Jorvan Eltharion](../../world/npcs/jorvan-eltharion.md).
 
 ---
 
@@ -24,18 +24,8 @@ The party of Keys of Wonder came together somewhat by accident at the Coppergate
 
 ---
 
-## The Fractured Key
-
-The party's central artifact. A small ornate key made of a dark metal Juthat doesn't quite match anything in common metallurgical knowledge. It hums in the presence of other shards and points toward them like a compass.
-
-- Currently held by: *TBD (whoever made the highest bid or best case with Aldus)*
-- Known properties: resonates with other shards, warms to the touch near locks it can open
-- Unknown: how many total shards exist, what the complete key opens
-
----
-
 ## Party Notes
 
-- The group had not met before the Coppergate Market encounter.
+- The group had not met before gathering at the Catch Your Breath Inn in Slew.
 - They share no established history — bonds will form through play.
-- Someone else is looking for the key. Aldus seemed aware of this and sold it quickly.
+- Rivnee had been waiting at the inn for over a week; Dusk and Thora a few days; Juice arrived the day before; N'ail walked in with no plan and was directed to the group by barkeep Maria Heathertoes.
