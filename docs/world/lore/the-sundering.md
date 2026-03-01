@@ -20,7 +20,7 @@ The Sundering is the name given to the catastrophic magical event that occurred 
 
 ## Competing Theories
 
-**The Divine Grief Theory** — Most commonly espoused by the Church of Solara. The gods, horrified by mortal warfare, withdrew their presence as an act of collective grief and judgment.
+**The Divine Grief Theory** — Most commonly espoused by the Church of [Solara](../deities/solara.md). The gods, horrified by mortal warfare, withdrew their presence as an act of collective grief and judgment.
 
 **The Arcane Catastrophe Theory** — Favored by most academic institutions. An experiment in high magic went catastrophically wrong, damaging the fabric connecting the material plane to the divine.
 
@@ -28,10 +28,10 @@ The Sundering is the name given to the catastrophic magical event that occurred 
 
 ## Aftermath
 
-The Ember Council formed during the Sundering's final years. Ironhold became a major refuge. Malachar the Grey, then a young mage, has written the era's definitive history — though critics note he was present for more of these events than he admits.
+[The Ember Council](../factions/the-ember-council.md) formed during the Sundering's final years. [Ironhold](../locations/ironhold.md) became a major refuge. [Malachar the Grey](../npcs/malachar-the-grey.md), then a young mage, has written the era's definitive history — though critics note he was present for more of these events than he admits.
 
 ## Connections
 
-- Solara's disappearance is the most symbolically significant divine event of the Sundering
-- The Ember Council traces its founding to this period
+- [Solara](../deities/solara.md)'s disappearance is the most symbolically significant divine event of the Sundering
+- [The Ember Council](../factions/the-ember-council.md) traces its founding to this period
 - Both campaigns deal with artifacts and knowledge from before the Sundering

@@ -22,7 +22,7 @@ Something has gone dark in the deep water — a presence or structure known to c
 1. **Pibble Wavewatch** — Recovering in Saltmere. Knows more about the Beacon's nature than she's admitted.
 2. **The Patron's Chest** — The locked chest the party delivered may be connected. Their contact never showed.
 3. **Saltmere's Harbormaster** — Old enough to remember rumors about the Beacon from his father's time.
-4. **The Ember Council** — Documents in Malachar the Grey's published works mention a "deep-water sentinel" without elaboration.
+4. **[The Ember Council](../../world/factions/the-ember-council.md)** — Documents in [Malachar the Grey](../../world/npcs/malachar-the-grey.md)'s published works mention a "deep-water sentinel" without elaboration.
 
 ## Complications
 

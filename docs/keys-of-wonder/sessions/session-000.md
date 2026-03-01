@@ -16,11 +16,11 @@ Five strangers met at the [Catch Your Breath Inn](../../world/locations/catch-yo
 
 ## Session Summary
 
-The city of Slew runs on trade, and trade runs on the Merchant Princes. At the Catch Your Breath Inn -- a known gathering place for hired swords, wandering clerics, and the otherwise unemployed -- five strangers found themselves sharing a corner table.
+The city of [Slew](../../world/locations/slew.md) runs on trade, and trade runs on the Merchant Princes. At [The Catch Your Breath Inn](../../world/locations/catch-your-breath-inn.md) -- a known gathering place for hired swords, wandering clerics, and the otherwise unemployed -- five strangers found themselves sharing a corner table.
 
 Rivnee, a sea elf fighter, had been waiting there for over a week. Dusk and Thora had arrived a few days prior. Juice Sumgai had come only yesterday. And N'ail, an eladrin warlock freshly arrived from the Feywild, walked in with no clear plan until the barkeep [Maria Heathertoes](../../world/npcs/maria-heathertoes.md) pointed him toward the back corner.
 
-By the time Merchant Prince Jorvan Eltharion approached the table, they were already a group.
+By the time Merchant Prince [Jorvan Eltharion](../../world/npcs/jorvan-eltharion.md) approached the table, they were already a group.
 
 The job was straightforward in description, strange in implication. A frozen trade route to a gem-trading village had developed an anomaly: a section of swamp that no longer behaved like winter. Warm. Alive. Wrong. If the thaw spread, the route would become impassable and Eltharion's contracts would suffer. He needed it investigated.
 

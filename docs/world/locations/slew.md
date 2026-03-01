@@ -17,11 +17,11 @@ Slew is a trade city built around commerce and the powerful Merchant Princes who
 
 ## Notable Figures
 
-- **Jorvan Eltharion** — Merchant Prince overseeing the northern gem-route contracts
-- **Maria Heathertoes** — Barkeep at the Catch Your Breath Inn
+- **[Jorvan Eltharion](../npcs/jorvan-eltharion.md)** — Merchant Prince overseeing the northern gem-route contracts
+- **[Maria Heathertoes](../npcs/maria-heathertoes.md)** — Barkeep at [The Catch Your Breath Inn](catch-your-breath-inn.md)
 
 ## Connections
 
 - Starting location for the Keys of Wonder campaign (Session 000)
 - Northern trade routes lead to unnamed gem-trading villages
-- Site of the Catch Your Breath Inn
+- Site of [The Catch Your Breath Inn](catch-your-breath-inn.md)

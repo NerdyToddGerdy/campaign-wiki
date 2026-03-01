@@ -14,13 +14,13 @@ The party arrived in the harbor city of Saltmere after a week at sea, carrying a
 
 - **The Arrival** — The party's ship, the *Wandering Tern*, docked at Saltmere's southern wharf in the early morning. The city was unusually quiet.
 - **The Chest** — Delivered to a drop-point as instructed: a barrel marked with a red X at the fish market. The contact never appeared.
-- **The Tide-Caller** — A half-conscious gnome woman named Pibble Wavewatch was pulled from the water. She warned of "the lost beacon" and a presence beneath the waves before passing out.
+- **The Tide-Caller** — A half-conscious gnome woman named Pibble Wavewatch was pulled from the water. She warned of "[The Lost Beacon](../plot-threads/the-lost-beacon.md)" and a presence beneath the waves before passing out.
 - **The Chase** — Someone had been watching the fish market. The party gave chase but lost their tail in the alley warrens.
 
 ## Questions Raised
 
 - Who is the party's actual patron?
-- What is the Lost Beacon?
+- What is [The Lost Beacon](../plot-threads/the-lost-beacon.md)?
 - Who was following them, and why?
 
 ## Experience & Rewards
@@ -31,4 +31,4 @@ The party arrived in the harbor city of Saltmere after a week at sea, carrying a
 
 ## Next Session
 
-Pibble recovers enough to share fragments of what she saw. The journal leads toward The Lost Beacon plot thread.
+Pibble recovers enough to share fragments of what she saw. The journal leads toward [The Lost Beacon](../plot-threads/the-lost-beacon.md) plot thread.

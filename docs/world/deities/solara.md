@@ -9,7 +9,7 @@ dm_notes: Solara's withdrawal was not voluntary — she was sealed away by a coa
 
 ## Overview
 
-Solara is the goddess of the sun, fire, and truth. She was once among the most actively worshipped deities in the world, with temples in every major city and priests who wielded genuine divine flame. Since The Sundering, her direct influence on the mortal world has ceased entirely. Scholars debate whether she withdrew, was sealed away, or simply ceased to exist.
+Solara is the goddess of the sun, fire, and truth. She was once among the most actively worshipped deities in the world, with temples in every major city and priests who wielded genuine divine flame. Since [The Sundering](../lore/the-sundering.md), her direct influence on the mortal world has ceased entirely. Scholars debate whether she withdrew, was sealed away, or simply ceased to exist.
 
 ## Worship
 
@@ -21,12 +21,12 @@ The faith of Solara persists despite her silence. Her clergy still maintain temp
 - Fire purifies; to forge something better, you must first accept the heat.
 - The sun rises without asking permission.
 
-## The Sundering Connection
+## [The Sundering](../lore/the-sundering.md) Connection
 
-Malachar the Grey has written about Solara's withdrawal in scholarly texts, positioning it as a voluntary act of divine grief. His account is the most widely cited, which some theologians find suspicious.
+[Malachar the Grey](../npcs/malachar-the-grey.md) has written about Solara's withdrawal in scholarly texts, positioning it as a voluntary act of divine grief. His account is the most widely cited, which some theologians find suspicious.
 
 ## Connections
 
 - Worshipped across both the Voyage of the Stars and Keys of Wonder campaigns
-- The Sundering event is tied to her disappearance
-- Her oldest temple in Ironhold is now maintained by a single elderly priest
+- [The Sundering](../lore/the-sundering.md) event is tied to her disappearance
+- Her oldest temple in [Ironhold](../locations/ironhold.md) is now maintained by a single elderly priest

@@ -14,11 +14,11 @@ Jorvan Eltharion is a well-dressed man in his mid-fifties with the practiced eas
 
 ## Role
 
-One of the Merchant Princes who control trade in and out of Slew, Eltharion oversees contracts along the northern frozen routes, including the road to the gem-trading villages. His influence is economic rather than political, but in Slew, the distinction is largely academic.
+One of the Merchant Princes who control trade in and out of [Slew](../locations/slew.md), Eltharion oversees contracts along the northern frozen routes, including the road to the gem-trading villages. His influence is economic rather than political, but in [Slew](../locations/slew.md), the distinction is largely academic.
 
 ## Known Facts
 
-- Hired the party at the Catch Your Breath Inn to investigate a magical anomaly on a frozen trade route
+- Hired the party at [The Catch Your Breath Inn](../locations/catch-your-breath-inn.md) to investigate a magical anomaly on a frozen trade route
 - Initially offered 50 gold per person; accepted Thora's counter of 80
 - Framed the job as a trade disruption problem — he needed the route passable, not an investigation into the supernatural
 - Did not accompany the party or provide additional resources
@@ -26,5 +26,5 @@ One of the Merchant Princes who control trade in and out of Slew, Eltharion over
 ## Connections
 
 - Patron of the party for Session 000
-- Operates in Slew alongside other Merchant Princes
+- Operates in [Slew](../locations/slew.md) alongside other Merchant Princes
 - Has financial interests in the gem-trading villages to the north

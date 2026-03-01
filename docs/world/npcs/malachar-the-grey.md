@@ -14,7 +14,7 @@ A weathered man in ash-grey robes, Malachar carries himself with the quiet autho
 
 ## History
 
-Malachar has served The Ember Council for forty years, rising from a junior arcanist to its most senior member. He was present during the final battles of the Sundering and is one of the few living witnesses to Solara's withdrawal from the mortal world. His scholarship on the Sundering remains the definitive academic text.
+Malachar has served [The Ember Council](../factions/the-ember-council.md) for forty years, rising from a junior arcanist to its most senior member. He was present during the final battles of [The Sundering](../lore/the-sundering.md) and is one of the few living witnesses to [Solara](../deities/solara.md)'s withdrawal from the mortal world. His scholarship on [The Sundering](../lore/the-sundering.md) remains the definitive academic text.
 
 ## Personality
 
@@ -24,10 +24,10 @@ Malachar is patient to a fault, often letting conversations run their course bef
 
 - Master of fire and transmutation magic
 - Deep knowledge of pre-Sundering history and artifact lore
-- Maintains the Council's arcane wards over Ironhold
+- Maintains the Council's arcane wards over [Ironhold](../locations/ironhold.md)
 
 ## Connections
 
-- Senior member of The Ember Council
-- Possesses the Staff of Embers (reportedly)
-- Has referenced Solara's withdrawal in private correspondence
+- Senior member of [The Ember Council](../factions/the-ember-council.md)
+- Possesses the [Staff of Embers](../items/staff-of-embers.md) (reportedly)
+- Has referenced [Solara](../deities/solara.md)'s withdrawal in private correspondence
