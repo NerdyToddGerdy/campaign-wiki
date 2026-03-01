@@ -1,34 +1,76 @@
 ---
-title: "Session 001: The Tide-Caller's Warning"
+title: "Session 001: Convergence at the Monastery Gates"
 campaign: Voyage of the Stars
-date: TBD
 tags: [session, voyage-of-the-stars]
-dm_notes: The tide-caller is a messenger of Solara's last mortal prophet. Do not reveal this yet.
 ---
 
-## Summary
+# Session 001: Convergence at the Monastery Gates
 
-The party arrived in the harbor city of Saltmere after a week at sea, carrying a locked chest for a merchant patron whose name they were not given. Before they could deliver it, a half-drowned tide-caller clawed her way onto the dock and warned them: *the beacon has gone dark, and something is moving in the deep.*
+---
 
-## Events
+## TL;DR
 
-- **The Arrival** — The party's ship, the *Wandering Tern*, docked at Saltmere's southern wharf in the early morning. The city was unusually quiet.
-- **The Chest** — Delivered to a drop-point as instructed: a barrel marked with a red X at the fish market. The contact never appeared.
-- **The Tide-Caller** — A half-conscious gnome woman named Pibble Wavewatch was pulled from the water. She warned of "[The Lost Beacon](../plot-threads/the-lost-beacon.md)" and a presence beneath the waves before passing out.
-- **The Chase** — Someone had been watching the fish market. The party gave chase but lost their tail in the alley warrens.
+Vincent, Balabar Ironbender, and Wildrug Fillydook set out from the edge of Grayhaven to recover the Astral Compass from a nearby monastery -- and met Ariella, a stranger who had somehow lived the same adventure they had. Together they fought through trapped corridors and violet fungi, retrieved the compass, and fled the monastery ahead of a Dragon Skulled Hermit Crab.
 
-## Questions Raised
+---
 
-- Who is the party's actual patron?
-- What is [The Lost Beacon](../plot-threads/the-lost-beacon.md)?
-- Who was following them, and why?
+## Session Summary
 
-## Experience & Rewards
+The job was straightforward: reach the old monastery on the outskirts of Grayhaven and retrieve the Astral Compass. What the party did not expect was Ariella.
 
-- 200 XP each
-- The locked chest (patron's goods, delivered)
-- A waterlogged journal found on Pibble
+She was already there when they arrived -- or arrived at the same moment -- with the same contract, the same memories of the same events leading up to this point. The mirroring was too precise to be coincidence, and too strange to fully parse. They set aside the question and went inside together.
 
-## Next Session
+The monastery did not welcome them. Its halls were threaded with traps: arrow volleys from hidden mechanisms, jets of fire, a sweeping beam of magic energy, and chambers thick with poisonous gas. The party worked through each in turn, reading the architecture for what it wanted to kill and finding ways past it. Violet fungi lurked in the darker corridors and attacked when the party drew close.
 
-Pibble recovers enough to share fragments of what she saw. The journal leads toward [The Lost Beacon](../plot-threads/the-lost-beacon.md) plot thread.
+They found the Astral Compass. Then the Dragon Skulled Hermit Crab found them, and the exit became the only priority.
+
+---
+
+## The Edge of Grayhaven
+
+The party departed from the edge of Grayhaven, heading for the monastery that sat apart from the city -- old enough to predate the current streets, walled off from them by distance and disuse. The Astral Compass was somewhere inside. The path there was uneventful. The monastery was not.
+
+---
+
+## A Stranger with the Same Story
+
+At the monastery entrance, the party encountered Ariella. She described the events that had brought her to this door, and the description matched theirs: the same sequence, the same decisions, the same road. How two separate groups arrived at the same moment following identical histories is not yet answered. The party chose pragmatism over confusion and moved inside together.
+
+---
+
+## The Trapped Halls
+
+The monastery's interior was a series of tests, built or repurposed to stop uninvited entry. Arrow mechanisms fired from recessed slots in the walls. Fire traps activated underfoot. A beam of magical force swept the width of a corridor at irregular intervals. One chamber was dense with poisonous gas that required the party to move quickly and carefully.
+
+Violet fungi colonies had taken root in the lower corridors and attacked when the party moved within reach. They were slow but resilient, and the gas-fouled air made the fights harder than they should have been.
+
+The Astral Compass was recovered.
+
+---
+
+## Flight from the Dragon Skulled Hermit Crab
+
+With the compass in hand, the party encountered the monastery's most effective deterrent: a hermit crab of enormous size, its shell replaced by the skull of a dragon. It was not something they could fight their way through.
+
+They ran, compass in hand, and made it out.
+
+---
+
+## Explorations and Discoveries
+
+- **The Monastery**: An old structure at the edge of Grayhaven, rigged throughout with mechanical and magical traps. Someone designed it to be nearly impassable.
+- **The Astral Compass**: Successfully recovered. Its purpose and destination are not yet fully known.
+- **Ariella**: A new companion whose parallel history with the rest of the party is unexplained. The convergence seems meaningful.
+- **The Dragon Skulled Hermit Crab**: An enormous creature occupying the monastery's deeper halls. The party escaped it, but it remains inside.
+
+---
+
+## What Comes Next
+
+The Astral Compass is in the party's hands. The next step is determining what it does, who wanted it retrieved, and where it leads.
+
+Open questions:
+
+- What is the Astral Compass, and who sent the party to retrieve it?
+- Why does Ariella share the party's history, and what does that mean?
+- What is the Dragon Skulled Hermit Crab guarding, and will it follow?
