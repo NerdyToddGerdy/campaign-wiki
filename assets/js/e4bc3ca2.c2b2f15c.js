@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwiki=globalThis.webpackChunkwiki||[]).push([[5426],{8716(i){i.exports=JSON.parse('{"tag":{"label":"sun","permalink":"/campaign-wiki/tags/sun","allTagsPath":"/campaign-wiki/tags","count":1,"items":[{"id":"world/deities/solara","title":"Solara","description":"Overview","permalink":"/campaign-wiki/world/deities/solara"}],"unlisted":false}}')}}]);
