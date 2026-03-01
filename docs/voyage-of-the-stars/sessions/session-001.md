@@ -10,13 +10,13 @@ tags: [session, voyage-of-the-stars]
 
 ## TL;DR
 
-Vincent, Balabar Ironbender, and Wildrug Fillydook set out from the edge of Grayhaven to recover the Astral Compass from a nearby monastery -- and met Ariella, a stranger who had somehow lived the same adventure they had. Together they fought through trapped corridors and violet fungi, retrieved the compass, and fled the monastery ahead of a Dragon Skulled Hermit Crab.
+Vincent, Balabar Ironbender, and Wildrug Fillydook set out from the edge of [Grayhaven](../../world/locations/grayhaven.md) to recover the [Astral Compass](../../world/items/astral-compass.md) from a nearby monastery -- and met [Ariella](../party/index.md), a stranger who had somehow lived the same adventure they had. Together they fought through trapped corridors and violet fungi, retrieved the compass, and fled the monastery ahead of a Dragon Skulled Hermit Crab.
 
 ---
 
 ## Session Summary
 
-The job was straightforward: reach the old monastery on the outskirts of Grayhaven and retrieve the Astral Compass. What the party did not expect was Ariella.
+The job was straightforward: reach the old monastery on the outskirts of [Grayhaven](../../world/locations/grayhaven.md) and retrieve the Astral Compass. What the party did not expect was Ariella.
 
 She was already there when they arrived -- or arrived at the same moment -- with the same contract, the same memories of the same events leading up to this point. The mirroring was too precise to be coincidence, and too strange to fully parse. They set aside the question and went inside together.
 
@@ -26,9 +26,9 @@ They found the Astral Compass. Then the Dragon Skulled Hermit Crab found them, a
 
 ---
 
-## The Edge of Grayhaven
+## The Edge of [Grayhaven](../../world/locations/grayhaven.md)
 
-The party departed from the edge of Grayhaven, heading for the monastery that sat apart from the city -- old enough to predate the current streets, walled off from them by distance and disuse. The Astral Compass was somewhere inside. The path there was uneventful. The monastery was not.
+The party departed from the edge of [Grayhaven](../../world/locations/grayhaven.md), heading for the monastery that sat apart from the city -- old enough to predate the current streets, walled off from them by distance and disuse. The Astral Compass was somewhere inside. The path there was uneventful. The monastery was not.
 
 ---
 
@@ -58,8 +58,8 @@ They ran, compass in hand, and made it out.
 
 ## Explorations and Discoveries
 
-- **The Monastery**: An old structure at the edge of Grayhaven, rigged throughout with mechanical and magical traps. Someone designed it to be nearly impassable.
-- **The Astral Compass**: Successfully recovered. Its purpose and destination are not yet fully known.
+- **The Monastery**: An old structure at the edge of [Grayhaven](../../world/locations/grayhaven.md), rigged throughout with mechanical and magical traps. Someone designed it to be nearly impassable.
+- **[Astral Compass](../../world/items/astral-compass.md)**: Successfully recovered. Its purpose and destination are not yet fully known.
 - **Ariella**: A new companion whose parallel history with the rest of the party is unexplained. The convergence seems meaningful.
 - **The Dragon Skulled Hermit Crab**: An enormous creature occupying the monastery's deeper halls. The party escaped it, but it remains inside.
 
