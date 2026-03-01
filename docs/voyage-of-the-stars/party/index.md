@@ -8,8 +8,8 @@ tags: [party, voyage-of-the-stars]
 
 | Name               | Race         | Class                    | Player              |
 |--------------------|--------------|--------------------------|---------------------|
-| Vincent            | Half-Elf (M) | Cleric (Twilight Domain) | Josh                |
-| Ariella            | Fairy (F)    | Druid                    | Carina              |
-| Balabar Ironbender | Gnome (M)    | Artificer                | DM (NPC) *(departed)* |
-| Wildrug Fillydook  | Gnome (M)    | Wizard                   | Casey *(departed)*  |
+| [Vincent](vincent.md)                       | Half-Elf (M) | Cleric (Twilight Domain) | Josh                  |
+| [Ariella](ariella.md)                       | Fairy (F)    | Druid                    | Carina                |
+| [Balabar Ironbender](balabar-ironbender.md) | Gnome (M)    | Artificer                | DM (NPC) *(departed)* |
+| [Wildrug Fillydook](wildrug-fillydook.md)   | Gnome (M)    | Wizard                   | Casey *(departed)*    |
 

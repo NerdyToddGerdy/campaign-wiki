@@ -16,11 +16,11 @@ The party of Keys of Wonder came together at the [Catch Your Breath Inn](../../w
 
 | Name | Race | Class | Player |
 |------|------|-------|--------|
-| Rivnee | Sea Elf (F) | Fighter | Jess |
-| Dusk | — (M) | Cleric (Twilight) | — |
-| Thora | — (F) | Ranger | Sean |
-| Juice Sumgai | Half-Elf (M) | Cleric | — | *(departed)* |
-| N'ail | Eladrin (M) | Warlock | Brad |
+| [Rivnee](rivnee.md)           | Sea Elf (F)  | Fighter           | Jess              |
+| [Dusk](dusk.md)               | — (M)        | Cleric (Twilight) | —                 |
+| [Thora](thora.md)             | — (F)        | Ranger            | Sean              |
+| [Juice Sumgai](juice-sumgai.md) | Half-Elf (M) | Cleric          | — *(departed)*    |
+| [N'ail](nail.md)              | Eladrin (M)  | Warlock           | Brad              |
 
 ---
 
