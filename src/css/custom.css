@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
+:root {
+  --ifm-color-primary: #c9a84c;
+  --ifm-color-primary-dark: #b8932e;
+  --ifm-color-primary-darker: #a8842a;
+  --ifm-color-primary-darkest: #8a6c22;
+  --ifm-color-primary-light: #d4b86a;
+  --ifm-color-primary-lighter: #dbc47e;
+  --ifm-color-primary-lightest: #e6d49f;
+
+  --ifm-background-color: #0f0d0a;
+  --ifm-background-surface-color: #1e1a12;
+  --ifm-navbar-background-color: #0a0806;
+
+  --ifm-font-family-base: 'Crimson Text', Georgia, serif;
+  --ifm-heading-font-family: 'Cinzel', serif;
+  --ifm-font-size-base: 18px;
+
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(201, 168, 76, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #c9a84c;
+  --ifm-color-primary-dark: #b8932e;
+  --ifm-color-primary-darker: #a8842a;
+  --ifm-color-primary-darkest: #8a6c22;
+  --ifm-color-primary-light: #d4b86a;
+  --ifm-color-primary-lighter: #dbc47e;
+  --ifm-color-primary-lightest: #e6d49f;
+
+  --ifm-background-color: #0f0d0a;
+  --ifm-background-surface-color: #1e1a12;
+  --ifm-navbar-background-color: #0a0806;
+
+  --ifm-font-color-base: #e8dfc8;
+  --ifm-heading-color: #e8c87a;
+
+  --docusaurus-highlighted-code-line-bg: rgba(201, 168, 76, 0.15);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ifm-heading-font-family);
+  color: var(--ifm-heading-color, #e8c87a);
+  letter-spacing: 0.03em;
+}
+
+/* Navbar title styling */
+.navbar__title {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  color: #c9a84c;
+}
+
+/* Parchment content card */
+.theme-doc-markdown {
+  background: #2a2118;
+  border: 1px solid #5a4a2a;
+  border-radius: 4px;
+  padding: 2rem;
+}
+
+/* Sidebar styling */
+.menu {
+  background: #150f08;
+  border-right: 1px solid #3a2e1a;
+}
+
+.menu__link {
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: 1rem;
+}
+
+.menu__link--active {
+  color: #c9a84c;
+  font-weight: 600;
+}
+
+/* Footer */
+.footer {
+  background: #0a0806;
+  border-top: 1px solid #3a2e1a;
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid #3a2e1a;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* Links */
+a {
+  color: #c9a84c;
+}
+
+a:hover {
+  color: #e8c87a;
+}
