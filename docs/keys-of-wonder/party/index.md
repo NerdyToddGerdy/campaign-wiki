@@ -21,6 +21,8 @@ The party of Keys of Wonder came together at the [Catch Your Breath Inn](../../w
 | [Thora](thora.md)             | — (F)        | Ranger            | Sean              |
 | [Juice Sumgai](juice-sumgai.md) | Half-Elf (M) | Cleric          | — *(departed)*    |
 | [N'ail](nail.md)              | Eladrin (M)  | Warlock           | Brad              |
+| [Cathba](cathba.md)           | Shifter (M)  | Druid             | Robert            |
+| [Aseir](aseir.md)             | Human (M)    | Barbarian         | —                 |
 
 ---
 
