@@ -6,7 +6,7 @@ tags: [party, keys-of-wonder]
 
 ## The Keybearers
 
-The party of Keys of Wonder came together at the [Catch Your Breath Inn](../../world/locations/catch-your-breath-inn.md) in [Slew](../../world/locations/slew.md), drawn together by circumstance and a contract offered by [Merchant Prince Jorvan Eltharion](../../world/npcs/jorvan-eltharion.md).
+The party of Keys of Wonder came together at the [Catch Your Breath Inn](../../world/northern-wetlands/locations/catch-your-breath-inn.md) in [Slew](../../world/northern-wetlands/locations/slew.md), drawn together by circumstance and a contract offered by [Merchant Prince Jorvan Eltharion](../../world/northern-wetlands/npcs/jorvan-eltharion.md).
 
 ---
 
@@ -28,6 +28,6 @@ The party of Keys of Wonder came together at the [Catch Your Breath Inn](../../w
 
 ## Party Notes
 
-- The group had not met before gathering at [The Catch Your Breath Inn](../../world/locations/catch-your-breath-inn.md) in [Slew](../../world/locations/slew.md).
+- The group had not met before gathering at [The Catch Your Breath Inn](../../world/northern-wetlands/locations/catch-your-breath-inn.md) in [Slew](../../world/northern-wetlands/locations/slew.md).
 - They share no established history — bonds will form through play.
-- [Rivnee](rivnee.md) had been waiting at the inn for over a week; [Dusk](dusk.md) and [Thora](thora.md) a few days; Juice arrived the day before; [N'ail](nail.md) walked in with no plan and was directed to the group by barkeep [Maria Heathertoes](../../world/npcs/maria-heathertoes.md).
+- [Rivnee](rivnee.md) had been waiting at the inn for over a week; [Dusk](dusk.md) and [Thora](thora.md) a few days; Juice arrived the day before; [N'ail](nail.md) walked in with no plan and was directed to the group by barkeep [Maria Heathertoes](../../world/northern-wetlands/npcs/maria-heathertoes.md).

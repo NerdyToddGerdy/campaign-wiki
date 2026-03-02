@@ -10,17 +10,17 @@ tags: [session, keys-of-wonder]
 
 ## TL;DR
 
-Five strangers met at the [Catch Your Breath Inn](../../world/locations/catch-your-breath-inn.md) in [Slew](../../world/locations/slew.md) and accepted a contract from [Merchant Prince Jorvan Eltharion](../../world/npcs/jorvan-eltharion.md) to investigate a mysteriously thawed section of the frozen swamp. Inside a dome of unnatural summer, they discovered frogfolk activity, hidden supplies, and a sealed underground entrance that only a bullywug's hand could open. After surviving brutal ambushes -- including a fight that nearly killed [Dusk](../party/dusk.md) -- the party descended into an underground base and reached Level 2.
+Five strangers met at the [Catch Your Breath Inn](../../world/northern-wetlands/locations/catch-your-breath-inn.md) in [Slew](../../world/northern-wetlands/locations/slew.md) and accepted a contract from [Merchant Prince Jorvan Eltharion](../../world/northern-wetlands/npcs/jorvan-eltharion.md) to investigate a mysteriously thawed section of the frozen swamp. Inside a dome of unnatural summer, they discovered frogfolk activity, hidden supplies, and a sealed underground entrance that only a bullywug's hand could open. After surviving brutal ambushes -- including a fight that nearly killed [Dusk](../party/dusk.md) -- the party descended into an underground base and reached Level 2.
 
 ---
 
 ## Session Summary
 
-The city of [Slew](../../world/locations/slew.md) runs on trade, and trade runs on the Merchant Princes. At [The Catch Your Breath Inn](../../world/locations/catch-your-breath-inn.md) -- a known gathering place for hired swords, wandering clerics, and the otherwise unemployed -- five strangers found themselves sharing a corner table.
+The city of [Slew](../../world/northern-wetlands/locations/slew.md) runs on trade, and trade runs on the Merchant Princes. At [The Catch Your Breath Inn](../../world/northern-wetlands/locations/catch-your-breath-inn.md) -- a known gathering place for hired swords, wandering clerics, and the otherwise unemployed -- five strangers found themselves sharing a corner table.
 
-[Rivnee](../party/rivnee.md), a sea elf fighter, had been waiting there for over a week. [Dusk](../party/dusk.md) and [Thora](../party/thora.md) had arrived a few days prior. [Juice Sumgai](../party/juice-sumgai.md) had come only yesterday. And [N'ail](../party/nail.md), an eladrin warlock freshly arrived from the Feywild, walked in with no clear plan until the barkeep [Maria Heathertoes](../../world/npcs/maria-heathertoes.md) pointed him toward the back corner.
+[Rivnee](../party/rivnee.md), a sea elf fighter, had been waiting there for over a week. [Dusk](../party/dusk.md) and [Thora](../party/thora.md) had arrived a few days prior. [Juice Sumgai](../party/juice-sumgai.md) had come only yesterday. And [N'ail](../party/nail.md), an eladrin warlock freshly arrived from the Feywild, walked in with no clear plan until the barkeep [Maria Heathertoes](../../world/northern-wetlands/npcs/maria-heathertoes.md) pointed him toward the back corner.
 
-By the time Merchant Prince [Jorvan Eltharion](../../world/npcs/jorvan-eltharion.md) approached the table, they were already a group.
+By the time Merchant Prince [Jorvan Eltharion](../../world/northern-wetlands/npcs/jorvan-eltharion.md) approached the table, they were already a group.
 
 The job was straightforward in description, strange in implication. A frozen trade route to a gem-trading village had developed an anomaly: a section of swamp that no longer behaved like winter. Warm. Alive. Wrong. If the thaw spread, the route would become impassable and Eltharion's contracts would suffer. He needed it investigated.
 

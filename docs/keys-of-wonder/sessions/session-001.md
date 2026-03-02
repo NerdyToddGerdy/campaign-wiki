@@ -16,9 +16,9 @@ Two new arrivals from the village of Marsh Land joined the party during a short 
 
 ## Session Summary
 
-The party's short rest at the edge of the bog did not stay quiet. Two strangers emerged from the far side of the water: Cathba, a shifter druid sent from the swamp village of Marsh Land, and Aseir, a human barbarian traveling with him. They had come looking for a missing caravan from [Slew](../../world/locations/slew.md). Instead they found a bog that smelled wrong, a dome of stolen summer, and a green rune glowing through the brush.
+The party's short rest at the edge of the bog did not stay quiet. Two strangers emerged from the far side of the water: [Cathba](../party/cathba.md), a shifter druid sent from the swamp village of Marsh Land, and [Aseir](../party/aseir.md), a human barbarian traveling with him. They had come looking for a missing caravan from [Slew](../../world/northern-wetlands/locations/slew.md). Instead they found a bog that smelled wrong, a dome of stolen summer, and a green rune glowing through the brush.
 
-What followed was less of a meeting and more of a collision. Cathba's approach to the giant toad carcasses -- specifically, removing a leg -- was the final thing [Juice Sumgai](../party/juice-sumgai.md) was willing to witness. He left without ceremony.
+What followed was less of a meeting and more of a collision. [Cathba](../party/cathba.md)'s approach to the giant toad carcasses -- specifically, removing a leg -- was the final thing [Juice Sumgai](../party/juice-sumgai.md) was willing to witness. He left without ceremony.
 
 The remaining party barely had time to take stock. The world began to come apart. Sound lagged behind motion. Two party members froze mid-step. A crack split the air above them like breaking glass, and the ground beneath their feet became wood.
 
@@ -30,9 +30,9 @@ What waited inside was not a dungeon. It was a place where silence had taken roo
 
 ## Arrivals and a Departure
 
-During the short rest, Cathba and Aseir stepped out of the far side of the bog. They had been sent from Marsh Land, a small village in the swamp, after a caravan from [Slew](../../world/locations/slew.md) failed to arrive. Following the wrongness in the air, they tracked it to the dome and heard voices through the brush. A green rune's glow guided them to the party.
+During the short rest, [Cathba](../party/cathba.md) and [Aseir](../party/aseir.md) stepped out of the far side of the bog. They had been sent from Marsh Land, a small village in the swamp, after a caravan from [Slew](../../world/northern-wetlands/locations/slew.md) failed to arrive. Following the wrongness in the air, they tracked it to the dome and heard voices through the brush. A green rune's glow guided them to the party.
 
-The introductions were brief. Cathba's handling of the toad remains -- specifically, taking one of its legs -- was not received well by everyone. [Juice Sumgai](../party/juice-sumgai.md) had reached his limit. He walked away from the group and did not come back.
+The introductions were brief. [Cathba](../party/cathba.md)'s handling of the toad remains -- specifically, taking one of its legs -- was not received well by everyone. [Juice Sumgai](../party/juice-sumgai.md) had reached his limit. He walked away from the group and did not come back.
 
 ---
 
@@ -40,7 +40,7 @@ The introductions were brief. Cathba's handling of the toad remains -- specifica
 
 Once the full group had gathered, the environment began to betray itself.
 
-[Dusk](../party/dusk.md) stepped into the water. The sound arrived late. [Thora](../party/thora.md) noticed. Cathba noticed the same wrongness in the wind -- the rustle of leaves came after the branches had already moved. Looking around, [Thora](../party/thora.md) found the more alarming detail: [N'ail](../party/nail.md) and [Rivnee](../party/rivnee.md) were not moving. Frozen mid-gesture, mid-breath.
+[Dusk](../party/dusk.md) stepped into the water. The sound arrived late. [Thora](../party/thora.md) noticed. [Cathba](../party/cathba.md) noticed the same wrongness in the wind -- the rustle of leaves came after the branches had already moved. Looking around, [Thora](../party/thora.md) found the more alarming detail: [N'ail](../party/nail.md) and [Rivnee](../party/rivnee.md) were not moving. Frozen mid-gesture, mid-breath.
 
 A crack opened fifteen feet above the group. It did not tear. It split, the way glass splits -- precise lines spreading outward from a single point. The soil and stone beneath their feet shifted, grain by grain, into a wooden floor. The lights died.
 
@@ -104,9 +104,9 @@ The frozen party members resumed motion. No time had passed.
 
 ## Explorations and Discoveries
 
-- **Cathba**: Shifter druid from Marsh Land, sent to investigate the missing [Slew](../../world/locations/slew.md) caravan. New party member.
-- **Aseir**: Human barbarian traveling with Cathba. New party member.
-- **Marsh Land**: A small village in the swamp with ties to the [Slew](../../world/locations/slew.md) trade route.
+- **[Cathba](../party/cathba.md)**: Shifter druid from Marsh Land, sent to investigate the missing [Slew](../../world/northern-wetlands/locations/slew.md) caravan. New party member.
+- **[Aseir](../party/aseir.md)**: Human barbarian traveling with [Cathba](../party/cathba.md). New party member.
+- **Marsh Land**: A small village in the swamp with ties to the [Slew](../../world/northern-wetlands/locations/slew.md) trade route.
 - **[Juice Sumgai](../party/juice-sumgai.md)**: Has departed the party.
 - **The Amphitheater**: A space reached through a fracture in reality. Its instruments maintain something. Its silence is a force.
 - **Discordant Sparks and the Greater Echo**: Creatures of accumulated silence. They grow when unchecked and condense rather than emerge.
