@@ -18,7 +18,7 @@ Five strangers met at the [Catch Your Breath Inn](../../world/northern-wetlands/
 
 ## Session Summary
 
-*11/28/1019 — The Catch Your Breath Inn, [Slew](../../world/northern-wetlands/locations/slew.md)*
+*11/28/1019 — [The Catch Your Breath Inn](../../world/northern-wetlands/locations/catch-your-breath-inn.md), [Slew](../../world/northern-wetlands/locations/slew.md)*
 
 The city of [Slew](../../world/northern-wetlands/locations/slew.md) runs on trade, and trade runs on the Merchant Princes. At [The Catch Your Breath Inn](../../world/northern-wetlands/locations/catch-your-breath-inn.md) -- a known gathering place for hired swords, wandering clerics, and the otherwise unemployed -- five strangers found themselves sharing a corner table.
 
@@ -36,7 +36,7 @@ What waited at the far end of that road was not a simple thaw.
 
 ## The Frozen Road and the Dome
 
-*11/29/1019 — Departure from Slew*
+*11/29/1019 — Departure from [Slew](../../world/northern-wetlands/locations/slew.md)*
 
 The swamp in winter is monotone and still -- cracked ice, bare branches, grey sky. The party traveled through it until the cold simply stopped.
 

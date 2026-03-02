@@ -14,13 +14,13 @@ date_end: "11/29/1019"
 
 ## TL;DR
 
-Two new arrivals from the village of Marsh Land joined the party during a short rest -- and one departure followed almost immediately. Reality then fractured around them, pulling the group into a pitch-black amphitheater where silence was a weapon and sound had to be fought for. At the end of it all, a mysterious man appeared, played an organ that sealed the breach, and spoke one quiet phrase before vanishing: "...Still in tune."
+Two new arrivals from the village of [Marsh Land](../../world/starless-mire/locations/marsh-land.md) joined the party during a short rest -- and one departure followed almost immediately. Reality then fractured around them, pulling the group into a pitch-black amphitheater where silence was a weapon and sound had to be fought for. At the end of it all, a mysterious man appeared, played an organ that sealed the breach, and spoke one quiet phrase before vanishing: "...Still in tune."
 
 ---
 
 ## Session Summary
 
-The party's short rest at the edge of the bog did not stay quiet. Two strangers emerged from the far side of the water: [Cathba](../party/cathba.md), a shifter druid sent from the swamp village of Marsh Land, and [Aseir](../party/aseir.md), a human barbarian traveling with him. They had come looking for a missing caravan from [Slew](../../world/northern-wetlands/locations/slew.md). Instead they found a bog that smelled wrong, a dome of stolen summer, and a green rune glowing through the brush.
+The party's short rest at the edge of the bog did not stay quiet. Two strangers emerged from the far side of the water: [Cathba](../party/cathba.md), a shifter druid sent from the swamp village of [Marsh Land](../../world/starless-mire/locations/marsh-land.md), and [Aseir](../party/aseir.md), a human barbarian traveling with him. They had come looking for a missing caravan from [Slew](../../world/northern-wetlands/locations/slew.md). Instead they found a bog that smelled wrong, a dome of stolen summer, and a green rune glowing through the brush.
 
 What followed was less of a meeting and more of a collision. [Cathba](../party/cathba.md)'s approach to the giant toad carcasses -- specifically, removing a leg -- was the final thing [Juice Sumgai](../party/juice-sumgai.md) was willing to witness. He left without ceremony.
 
@@ -34,7 +34,7 @@ What waited inside was not a dungeon. It was a place where silence had taken roo
 
 ## Arrivals and a Departure
 
-During the short rest, [Cathba](../party/cathba.md) and [Aseir](../party/aseir.md) stepped out of the far side of the bog. They had been sent from Marsh Land, a small village in the swamp, after a caravan from [Slew](../../world/northern-wetlands/locations/slew.md) failed to arrive. Following the wrongness in the air, they tracked it to the dome and heard voices through the brush. A green rune's glow guided them to the party.
+During the short rest, [Cathba](../party/cathba.md) and [Aseir](../party/aseir.md) stepped out of the far side of the bog. They had been sent from [Marsh Land](../../world/starless-mire/locations/marsh-land.md), a small village in the swamp, after a caravan from [Slew](../../world/northern-wetlands/locations/slew.md) failed to arrive. Following the wrongness in the air, they tracked it to the dome and heard voices through the brush. A green rune's glow guided them to the party.
 
 The introductions were brief. [Cathba](../party/cathba.md)'s handling of the toad remains -- specifically, taking one of its legs -- was not received well by everyone. [Juice Sumgai](../party/juice-sumgai.md) had reached his limit. He walked away from the group and did not come back.
 
@@ -108,9 +108,9 @@ The frozen party members resumed motion. No time had passed.
 
 ## Explorations and Discoveries
 
-- **[Cathba](../party/cathba.md)**: Shifter druid from Marsh Land, sent to investigate the missing [Slew](../../world/northern-wetlands/locations/slew.md) caravan. New party member.
+- **[Cathba](../party/cathba.md)**: Shifter druid from [Marsh Land](../../world/starless-mire/locations/marsh-land.md), sent to investigate the missing [Slew](../../world/northern-wetlands/locations/slew.md) caravan. New party member.
 - **[Aseir](../party/aseir.md)**: Human barbarian traveling with [Cathba](../party/cathba.md). New party member.
-- **Marsh Land**: A small village in the swamp with ties to the [Slew](../../world/northern-wetlands/locations/slew.md) trade route.
+- **[Marsh Land](../../world/starless-mire/locations/marsh-land.md)**: A small village in the swamp with ties to the [Slew](../../world/northern-wetlands/locations/slew.md) trade route.
 - **[Juice Sumgai](../party/juice-sumgai.md)**: Has departed the party.
 - **The Amphitheater**: A space reached through a fracture in reality. Its instruments maintain something. Its silence is a force.
 - **Discordant Sparks and the Greater Echo**: Creatures of accumulated silence. They grow when unchecked and condense rather than emerge.
