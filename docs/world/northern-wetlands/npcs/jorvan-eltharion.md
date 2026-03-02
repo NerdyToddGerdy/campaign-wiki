@@ -19,7 +19,7 @@ One of the Merchant Princes who control trade in and out of [Slew](../locations/
 ## Known Facts
 
 - Hired the party at [The Catch Your Breath Inn](../locations/catch-your-breath-inn.md) to investigate a magical anomaly on a frozen trade route
-- Initially offered 50 gold per person; accepted [Thora](../../keys-of-wonder/party/thora.md)'s counter of 80
+- Initially offered 50 gold per person; accepted [Thora](../../../keys-of-wonder/party/thora.md)'s counter of 80
 - Framed the job as a trade disruption problem — he needed the route passable, not an investigation into the supernatural
 - Did not accompany the party or provide additional resources
 

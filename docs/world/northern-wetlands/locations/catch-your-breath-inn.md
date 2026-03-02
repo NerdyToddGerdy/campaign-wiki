@@ -11,8 +11,8 @@ The Catch Your Breath Inn is a well-known gathering place in [Slew](slew.md) for
 
 ## Known Facts
 
-- [Rivnee](../../keys-of-wonder/party/rivnee.md) had been waiting there for over a week before the party assembled
-- [N'ail](../../keys-of-wonder/party/nail.md) was directed to the party's corner table by the barkeep, [Maria Heathertoes](../npcs/maria-heathertoes.md)
+- [Rivnee](../../../keys-of-wonder/party/rivnee.md) had been waiting there for over a week before the party assembled
+- [N'ail](../../../keys-of-wonder/party/nail.md) was directed to the party's corner table by the barkeep, [Maria Heathertoes](../npcs/maria-heathertoes.md)
 - Merchant Prince [Jorvan Eltharion](../npcs/jorvan-eltharion.md) approached the group here with a contract
 
 ## Connections

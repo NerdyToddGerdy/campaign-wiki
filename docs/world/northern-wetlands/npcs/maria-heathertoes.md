@@ -14,7 +14,7 @@ Maria Heathertoes is the barkeep at [The Catch Your Breath Inn](../locations/cat
 ## Known Facts
 
 - Works behind the bar at [The Catch Your Breath Inn](../locations/catch-your-breath-inn.md)
-- Directed [N'ail](../../keys-of-wonder/party/nail.md) toward the corner table where the rest of the party was gathered, effectively completing the group
+- Directed [N'ail](../../../keys-of-wonder/party/nail.md) toward the corner table where the rest of the party was gathered, effectively completing the group
 
 ## Connections
 
