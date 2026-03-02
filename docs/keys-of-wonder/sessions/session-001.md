@@ -2,11 +2,15 @@
 title: "Session 001: Still in Tune"
 campaign: Keys of Wonder
 tags: [session, keys-of-wonder]
+date_start: "11/29/1019"
+date_end: "11/29/1019"
 ---
 
 # Session 001: Still in Tune
 
 ---
+
+*11/29/1019*
 
 ## TL;DR
 
