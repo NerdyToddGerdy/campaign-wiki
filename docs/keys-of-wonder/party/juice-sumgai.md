@@ -1,5 +1,6 @@
 ---
 title: Juice Sumgai
+aliases: [Juice]
 race: Half-Elf (M)
 class: Cleric
 status: departed

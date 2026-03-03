@@ -26,7 +26,7 @@ The city of [Slew](../../world/northern-wetlands/locations/slew.md) runs on trad
 
 By the time Merchant Prince [Jorvan Eltharion](../../world/northern-wetlands/npcs/jorvan-eltharion.md) approached the table, they were already a group.
 
-The job was straightforward in description, strange in implication. A frozen trade route to a gem-trading village had developed an anomaly: a section of swamp that no longer behaved like winter. Warm. Alive. Wrong. If the thaw spread, the route would become impassable and Eltharion's contracts would suffer. He needed it investigated.
+The job was straightforward in description, strange in implication. A frozen trade route to a gem-trading village had developed an anomaly: a section of swamp that no longer behaved like winter. Warm. Alive. Wrong. If the thaw spread, the route would become impassable and [Eltharion](../../world/northern-wetlands/npcs/jorvan-eltharion.md)'s contracts would suffer. He needed it investigated.
 
 [Thora](../party/thora.md) negotiated the reward from 50 gold each up to 80. They accepted.
 
@@ -109,4 +109,4 @@ Open questions:
 - Who constructed the underground base, and what purpose does it serve?
 - Are the bullywugs willing participants in whatever is happening here, or something else?
 - What is sustaining the summer dome, and can it be stopped -- or should it be?
-- Merchant Prince Eltharion hired them to investigate a trade disruption. What they have found is something significantly larger.
+- [Merchant Prince Eltharion](../../world/northern-wetlands/npcs/jorvan-eltharion.md) hired them to investigate a trade disruption. What they have found is something significantly larger.

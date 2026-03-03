@@ -1,5 +1,6 @@
 ---
 title: Balabar Ironbender
+aliases: [Balabar]
 race: Gnome (M)
 class: Artificer
 player: DM (NPC)

@@ -1,5 +1,6 @@
 ---
 title: Wildrug Fillydook
+aliases: [Wildrug]
 race: Gnome (M)
 class: Wizard
 player: Casey

@@ -18,7 +18,7 @@ The second of the three Outpost Forts, Fort Prefect serves a dual role: watchtow
 
 ## Notable Figures
 
-- **Marshall Jerrus Toley** — Commander. Still bears the scars of the Sorcerer's Rebellion — an uprising of unlicensed mages against the [Alabaster Academy](../../general/locations/alabaster-academy.md). His stubborn distrust of arcane magic and spellcasters has strained relations with the Academy and with magic-users throughout the region. He regards any magic-user as a potential agent or spy.
+- **Marshall Jerrus Toley** — Commander. Still bears the scars of the Sorcerer's Rebellion — an uprising of unlicensed mages against the [Alabaster Academy](../../general/locations/alabaster-academy.md). His stubborn distrust of arcane magic and spellcasters has strained relations with [the Academy](../../general/locations/alabaster-academy.md) and with magic-users throughout the region. He regards any magic-user as a potential agent or spy.
 
 ## Connections
 

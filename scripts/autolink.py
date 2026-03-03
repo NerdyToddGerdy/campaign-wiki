@@ -46,7 +46,10 @@ def parse_frontmatter(content: str) -> tuple[dict, str, str]:
 
 
 def collect_titles(docs_dir: Path) -> dict[str, Path]:
-    """Walk docs_dir and return {title: file_path} for all titled pages."""
+    """Walk docs_dir and return {title: file_path} for all titled pages.
+
+    Also registers any aliases: [Alias One, Alias Two] frontmatter values.
+    """
     title_map: dict[str, Path] = {}
     for md_file in sorted(docs_dir.rglob("*.md")):
         try:
@@ -57,6 +60,14 @@ def collect_titles(docs_dir: Path) -> dict[str, Path]:
         title = fields.get("title", "").strip()
         if title:
             title_map[title] = md_file
+
+        aliases_raw = fields.get("aliases", "").strip()
+        if aliases_raw.startswith("[") and aliases_raw.endswith("]"):
+            for alias in aliases_raw[1:-1].split(","):
+                alias = alias.strip()
+                if alias and alias not in title_map:
+                    title_map[alias] = md_file
+
     return title_map
 
 

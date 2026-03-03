@@ -1,5 +1,6 @@
 ---
 title: Alabaster Academy
+aliases: [the Academy]
 type: location
 region: Central Greenwold
 tags: [academy, magic, wizards]

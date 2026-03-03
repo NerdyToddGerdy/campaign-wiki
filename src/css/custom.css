@@ -98,3 +98,58 @@ a {
 a:hover {
   color: #e8c87a;
 }
+
+/* World map with clickable pins */
+.world-map-container {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.world-map-container img {
+  width: 100%;
+  display: block;
+}
+
+.map-pin {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+
+.pin-dot {
+  display: block;
+  width: 12px;
+  height: 12px;
+  background: #c9a84c;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.15s;
+}
+
+.pin-dot:hover {
+  background: #e8c87a;
+  transform: scale(1.3);
+}
+
+.pin-label {
+  display: none;
+  position: absolute;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(15, 13, 10, 0.92);
+  color: #e8c87a;
+  font-family: 'Cinzel', serif;
+  font-size: 12px;
+  padding: 3px 8px;
+  border-radius: 3px;
+  border: 1px solid #c9a84c;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.map-pin:hover .pin-label {
+  display: block;
+}

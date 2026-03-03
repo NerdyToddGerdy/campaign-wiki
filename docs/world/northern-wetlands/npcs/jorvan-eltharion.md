@@ -1,5 +1,6 @@
 ---
 title: Jorvan Eltharion
+aliases: [Eltharion, Merchant Prince Eltharion]
 race: Human
 role: Merchant Prince
 affiliation: The Merchant Princes of Slew
